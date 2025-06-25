@@ -1,2 +1,1 @@
-# JanBurle.github.io
-AFAIK IT
+# afaik.it
